@@ -1,7 +1,8 @@
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LSierra1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSierra1&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=LSierra1&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LSierra1&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LSierra1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
   - 👋 Hi, I’m Sierra
 - 👀 I’m interested in aviaton in general
