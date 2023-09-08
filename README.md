@@ -14,6 +14,7 @@
 - 🎓 Infinity School Student, aspiring Full Stack Developer. 🌐
 - 🔗 Connect with me on [Instagram](https://www.instagram.com/sierra.for/)!
 - 😄 Pronouns: He/Him
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=lsierra1&label=Profile%20views&color=0e75b6&style=flat" alt="lsierra1" /> </p>
 
 
 ##
