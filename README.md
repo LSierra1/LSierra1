@@ -15,17 +15,6 @@
 - 🔗 Connect with me on [Instagram](https://www.instagram.com/sierra.for/)!
 - 😄 Pronouns: He/Him
 
-## Support My Work
-
-If you appreciate my work and would like to support it, you can consider making a donation:
-<div align="center">
-    
-| Buy me a coffee  | Paypal |
-|--------------|---------------|
-[<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" width="210px">](https://www.buymeacoffee.com/sierrafor) |  [<img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" width="180px">](https://www.paypal.com/donate/?hosted_button_id=UT684S3DQP8XY) |
-
-</div>
-
 
 ##
 
