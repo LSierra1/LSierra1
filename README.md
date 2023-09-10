@@ -26,3 +26,9 @@
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=3163eqbhk34w56axibxhtwbk7jf4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile" width="50%">
     </a>
 </p>
+
+#
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/wKE989CzpMR5EMe6Zm/giphy.gif?cid=ecf05e47zbmgbjootu36fi2x6tltw9ceor0vzda4o8cbohb3&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="960" height="540"/>
+</div>
