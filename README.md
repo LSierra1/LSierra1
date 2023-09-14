@@ -22,7 +22,7 @@
 
 | <h3>What am I listening to? 🎧</h3> | <h3>What am I doing? 💻</h3> |
 |-----------------------------|---------------------|
-| <img src="https://spotify-github-profile.vercel.app/api/view?uid=3163eqbhk34w56axibxhtwbk7jf4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="480" height="150"> | <img src="https://lanyard.cnrad.dev/api/916018769342648330?theme=dark&bg=2c2654&borderRadius=13px&idleMessage=Probably%20playing%20valorant.&showDisplayName=true" width="451" height="231"> |
+| <img src="https://spotify-github-profile.vercel.app/api/view?uid=3163eqbhk34w56axibxhtwbk7jf4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="480" height="150"> | <img src="https://lanyard.cnrad.dev/api/916018769342648330?theme=dark&bg=1a1a1a&borderRadius=13px&idleMessage=Probably%20playing%20valorant.&showDisplayName=true" width="451" height="231"> |
 
 
 #
