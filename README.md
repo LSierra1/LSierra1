@@ -14,9 +14,11 @@
 - 🎓 Infinity School Student, aspiring Full Stack Developer. 🌐
 - 🔗 Connect with me on [Instagram](https://www.instagram.com/sierra.for/)!
 - 😄 Pronouns: He/Him
+
+|Buy me a coffee | Support me on ko-fi |
+| --- | --- |
+| [![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=sierrafor&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/sierrafor) | [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O8P1981) |
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=lsierra1&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="lsierra1" /> </p>
-
-
 
 ##
 
