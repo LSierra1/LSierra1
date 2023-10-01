@@ -28,8 +28,8 @@
 
 
 #
-
+<!--
 <div align="center">
   <img src="https://media3.giphy.com/media/wKE989CzpMR5EMe6Zm/giphy.gif?cid=ecf05e47zbmgbjootu36fi2x6tltw9ceor0vzda4o8cbohb3&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="960" height="540"/>
 </div>
-
+-->
