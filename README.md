@@ -40,7 +40,7 @@ This repository has been inspired by numerous GitHub profiles. All credits for t
 
 | <h3>🎧 What am I listening to?</h3> | <h3>💻 What am I doing?</h3> |
 |-----------------------------|---------------------|
-| <img src="https://spotify-github-profile.vercel.app/api/view?uid=3163eqbhk34w56axibxhtwbk7jf4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="480" height="150"> | <img src="https://lanyard.cnrad.dev/api/916018769342648330?theme=dark&bg=1a1a1a&borderRadius=13px&idleMessage=Probably%20playing%20lol.&showDisplayName=true" width="451" height="231"> |
+| <a href="https://github.com/LSierra1/Spotify-Readme"> <picture> <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://spotify-sync-teal.vercel.app/api?theme=light&scan=false&rainbow=false" /> <source media="(prefers-color-scheme: dark)" srcset="https://spotify-sync-teal.vercel.app/api?theme=dark&scan=false&rainbow=false" /> <img alt="Current Spotify Song"> </picture> </a> | <img src="https://lanyard.cnrad.dev/api/916018769342648330?theme=dark&bg=1a1a1a&borderRadius=13px&idleMessage=Probably%20playing%20lol.&showDisplayName=true" width="451" height="231"> |
 
 <img
   width="100%"
@@ -66,3 +66,7 @@ This repository has been inspired by numerous GitHub profiles. All credits for t
   alt="Rainbow"
   src="assets/Rainbow.gif"
 />
+
+<!--
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=3163eqbhk34w56axibxhtwbk7jf4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="480" height="150">
+-->
