@@ -40,7 +40,7 @@ This repository has been inspired by numerous GitHub profiles. All credits for t
 
 | <h3>🎧 What am I listening to?</h3> | <h3>💻 What am I doing?</h3> |
 |-----------------------------|---------------------|
-| <a href="https://github.com/LSierra1/Spotify-Readme"> <picture> <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://spotify-sync-teal.vercel.app/api?theme=light&scan=false&rainbow=false" /> <source media="(prefers-color-scheme: dark)" srcset="https://spotify-sync-teal.vercel.app/api?theme=dark&scan=false&rainbow=false" /> <img alt="Current Spotify Song"> </picture> </a> | <img src="https://lanyard.cnrad.dev/api/916018769342648330?theme=dark&bg=1a1a1a&borderRadius=13px&idleMessage=Probably%20playing%20lol.&showDisplayName=true" width="451" height="231"> |
+| <a href="https://github.com/LSierra1/Spotify-Readme"> <picture> <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://spotify-sync-teal.vercel.app/api?theme=light&scan=true&rainbow=false" /> <source media="(prefers-color-scheme: dark)" srcset="https://spotify-sync-teal.vercel.app/api?theme=dark&scan=false&rainbow=false" /> <img alt="Current Spotify Song"> </picture> </a> | <img src="https://lanyard.cnrad.dev/api/916018769342648330?theme=dark&bg=1a1a1a&borderRadius=13px&idleMessage=Probably%20sleeping.&showDisplayName=true" width="451" height="231"> |
 
 <img
   width="100%"
