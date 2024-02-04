@@ -39,10 +39,8 @@ This repository has been inspired by numerous GitHub profiles. All credits for t
 />
 
 <div align="center">  <h3>🎧 What am I listening to?</h3> 
- <a href="https://github.com/LSierra1/Spotify-Readme"> <picture> <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://spotify-sync-teal.vercel.app/api?theme=light&scan=true&rainbow=false" /> <source media="(prefers-color-scheme: dark)" srcset="https://spotify-sync-teal.vercel.app/api?theme=dark&scan=false&rainbow=false" /> <img alt="Current Spotify Song"> </picture> </a> 
+ <a href="https://github.com/LSierra1/Spotify-Readme"> <picture> <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://spotify-sync-teal.vercel.app/api?theme=light&scan=true&rainbow=false" /> <source media="(prefers-color-scheme: dark)" srcset="https://spotify-sync-teal.vercel.app/api?theme=dark&scan=true&rainbow=false" /> <img alt="Current Spotify Song"> </picture> </a> 
 </div>
-
-> Welp, this information is currently incorrect. I need to update credentials...
 
 <img
   width="100%"
