@@ -16,11 +16,11 @@ This repository has been inspired by numerous GitHub profiles. All credits for t
   src="assets/main-banner.png"
 />
 
-<h1><p align="center">👋 Hi, I’m Sierra! Beginner developer, ENFP-T & AvGeek ✈️ </p></h1>
+<h1><p align="center">👋 Hi, I’m Sierra! Average(?) developer, ENFP-T & AvGeek ✈️ </p></h1>
 
 - 🌱 Currently, I'm on a journey of learning HTML, CSS, and Python 🚀
-- 📫 How to reach me? You can DM me on [Discord](https://discordapp.com/users/916018769342648330); I'm always there and will respond promptly.
-- 🎓 Infinity School Student, aspiring Full Stack Developer. 🌐
+- 📫 How to reach me? You can dm me on [Instagram](https://www.instagram.com/sierra.for/);
+- 🎓 Infinity School Student, graduating IT in Wyden University, aspiring Full Stack Developer. 🌐
 - 🔗 Connect with me on [Instagram](https://www.instagram.com/sierra.for/)!
 - 😄 Pronouns: He/Him
 
@@ -66,7 +66,3 @@ This repository has been inspired by numerous GitHub profiles. All credits for t
   alt="Rainbow"
   src="assets/Rainbow.gif"
 />
-
-<!--
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=3163eqbhk34w56axibxhtwbk7jf4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="480" height="150">
--->
