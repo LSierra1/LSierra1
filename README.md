@@ -38,9 +38,11 @@ This repository has been inspired by numerous GitHub profiles. All credits for t
   src="assets/Rainbow.gif"
 />
 
-| <h3>🎧 What am I listening to?</h3> | <h3>💻 What am I doing?</h3> |
-|-----------------------------|---------------------|
-| <a href="https://github.com/LSierra1/Spotify-Readme"> <picture> <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://spotify-sync-teal.vercel.app/api?theme=light&scan=true&rainbow=false" /> <source media="(prefers-color-scheme: dark)" srcset="https://spotify-sync-teal.vercel.app/api?theme=dark&scan=false&rainbow=false" /> <img alt="Current Spotify Song"> </picture> </a> | <img src="https://lanyard.cnrad.dev/api/916018769342648330?theme=dark&bg=1a1a1a&borderRadius=13px&idleMessage=Probably%20sleeping.&showDisplayName=true" width="451" height="231"> |
+<div align="center">  <h3>🎧 What am I listening to?</h3> 
+ <a href="https://github.com/LSierra1/Spotify-Readme"> <picture> <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://spotify-sync-teal.vercel.app/api?theme=light&scan=true&rainbow=false" /> <source media="(prefers-color-scheme: dark)" srcset="https://spotify-sync-teal.vercel.app/api?theme=dark&scan=false&rainbow=false" /> <img alt="Current Spotify Song"> </picture> </a> 
+</div>
+
+> Welp, this information is currently incorrect. I need to update credentials...
 
 <img
   width="100%"
@@ -66,6 +68,11 @@ This repository has been inspired by numerous GitHub profiles. All credits for t
   alt="Rainbow"
   src="assets/Rainbow.gif"
 />
+
+# 🇺🇸
+## Disclaimer from *Sierra*
+> This repository was forked from [tthn0](https://github.com/tthn0/Spotify-Readme) and is hosted on [Vercel](https://vercel.com/) with the necessary changes to keys (private keys and Spotify keys) so that the widget display is configured for my profile and shows my customized settings (such as spin, scan, theme, and rainbow).
+> No instructions have been modified. This repository was forked with the sole purpose of hosting my settings on Vercel. You can follow the same instructions from the original creator below.
 
 <!--
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=3163eqbhk34w56axibxhtwbk7jf4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="480" height="150">
