@@ -69,11 +69,6 @@ This repository has been inspired by numerous GitHub profiles. All credits for t
   src="assets/Rainbow.gif"
 />
 
-# 🇺🇸
-## Disclaimer from *Sierra*
-> This repository was forked from [tthn0](https://github.com/tthn0/Spotify-Readme) and is hosted on [Vercel](https://vercel.com/) with the necessary changes to keys (private keys and Spotify keys) so that the widget display is configured for my profile and shows my customized settings (such as spin, scan, theme, and rainbow).
-> No instructions have been modified. This repository was forked with the sole purpose of hosting my settings on Vercel. You can follow the same instructions from the original creator below.
-
 <!--
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=3163eqbhk34w56axibxhtwbk7jf4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="480" height="150">
 -->
