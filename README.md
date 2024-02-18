@@ -19,10 +19,7 @@ This repository has been inspired by numerous GitHub profiles. All credits for t
 <h1><p align="center">👋 Hi, I’m Sierra! Average(?) developer, ENFP-T & AvGeek ✈️ </p></h1>
 
 - 🌱 Currently, I'm on a journey of learning HTML, CSS, and Python 🚀
-- 📫 How to reach me? You can dm me on [Instagram](https://www.instagram.com/sierra.for/);
 - 🎓 Infinity School Student, graduating IT in Wyden University, aspiring Full Stack Developer. 🌐
-- 🔗 Connect with me on [Instagram](https://www.instagram.com/sierra.for/)!
-- 😄 Pronouns: He/Him
 
 <p align="middle">
     <img
